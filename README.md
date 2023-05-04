@@ -169,6 +169,8 @@ Close Release
 git flow release finish '0.1.0'
 ```
 
+##Merge Strategy
+
 
 #fast-forward merge
 
