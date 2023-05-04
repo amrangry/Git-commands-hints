@@ -172,6 +172,12 @@ git flow release finish '0.1.0'
 ##Merge Strategy
 
 
+Git merge - fast foward merge
+Git merge - the 3-way merge
+Squash merge
+Rebase
+
+
 #fast-forward merge
 
 يشير المصطلح "fast-forward merge" إلى نوع من الدمج في Git يتم فيه دمج فرع (branch) إلى الفرع الرئيسي في حالة عدم وجود تغييرات في ال main. وبمعنى آخر يتم دمج التغييرات في الفرع الفرعي مباشرةً مع الفرع الرئيسي دون إنشاء نقطة تفرع جديدة. يتم استخدام هذا النوع من الدمج عندما يتم العمل على فرع فرعي بشكل منفرد وبدون أي تداخلات مع الفرع الرئيسي.
